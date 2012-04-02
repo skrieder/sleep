@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/falkon/!svn/ver/327/workloads/sleep
+END
+sleep_0x10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/falkon/!svn/ver/14/workloads/sleep/sleep_0x10
+END
+sleep_0x100
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/falkon/!svn/ver/14/workloads/sleep/sleep_0x100
+END
+sleep_0x1000
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/falkon/!svn/ver/1/workloads/sleep/sleep_0x1000
+END
+sleep_0x10000
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/falkon/!svn/ver/6/workloads/sleep/sleep_0x10000
+END
+sleep_1x10
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/falkon/!svn/ver/1/workloads/sleep/sleep_1x10
+END
+bgp-sleep-tests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/falkon/!svn/ver/327/workloads/sleep/bgp-sleep-tests.sh
+END
